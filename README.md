@@ -1,3 +1,2 @@
 # SameGame
 Trabalho de Estrutura de Dados
-Na mesma praça, no mesmo banco, no mesmo jogo...
